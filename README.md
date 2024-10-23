@@ -76,4 +76,4 @@ Implements the Insertion Sort algorithm and visualizes each step. It inserts eac
 
 ---
 
-This README provides an overview of the project, along with descriptions of the key functions and usage instructions. You can modify it further if needed!
+This README provides an overview of the project, along with descriptions of the key functions and usage instructions. You can modify it further if needed such as more sorting algorithms can be added!
